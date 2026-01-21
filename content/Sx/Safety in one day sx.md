@@ -1,0 +1,8 @@
+- Level of sedation = moderate 
+	- ยังตอบโต้ได้ หายใจเองได้
+- Medication of choice
+	- Midazolam = flumazenil
+	- Opioid = naloxone
+		- Meperidine
+		- Fentanyl
+	- Propofol

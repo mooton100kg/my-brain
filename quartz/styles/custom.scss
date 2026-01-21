@@ -1,3 +1,89 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+h1 {
+    color: #264653;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+h2 {
+    color: #2A9D8F;
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
+h3 {
+    color: #F4A261;
+    font-weight: bold;
+    font-size: 1em;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    border: 1px solid black !important;
+
+}
+
+td ul,
+td ol {
+    margin: 0;
+    padding-left: 1.2em;
+    /* or 0 if you want fully flush */
+}
+
+td,
+th {
+    font-size: 12px !important;
+}
+
+
+/*=========================custom table=======================*/
+.top th {
+    background-color: #264653 !important;
+    color: white !important;
+    border: 1px solid white !important;
+}
+
+
+.side td:first-child,
+.side th:first-child {
+    background-color: #264653;
+    color: white;
+    border: 1px solid white !important;
+    font-weight: bold !important;
+}
+
+.side tr:hover {
+    background-color: #f0c987 !important;
+}
+
+.top.side td:first-child,
+.top.side th:first-child {
+    background-color: #556e78;
+    color: white;
+    border: 1px solid white !important;
+    font-weight: bold !important;
+}
+
+.center td,
+.center th {
+    text-align: center !important;
+}
+
+.center.top.side td:first-child {
+    text-align: left !important;
+}
+
+.middle th,
+.middle td {
+    vertical-align: middle !important;
+}
+
+.spread th,
+.spread td {
+    white-space: nowrap !important;
+}

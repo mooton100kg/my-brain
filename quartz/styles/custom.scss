@@ -1,6 +1,11 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+img {
+    display: block;
+}
+
 h1 {
     color: #264653;
     font-weight: bold;

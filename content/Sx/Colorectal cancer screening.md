@@ -1,6 +1,0 @@
-- Age = 55-75 yo
-	- Colonoscope = q5-10y
-	- Sigmoidoscope = q2-5y
-	- CT colonography = 5y
-	- Stool test = q1y เเต่ต้องควบคุมอาหารที่กิน
-- ในกรณีที่เป็น surveillance = colonoscope ทุก 1-3-5 ปี หลัง resection
